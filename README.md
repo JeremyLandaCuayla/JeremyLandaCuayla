@@ -1,4 +1,14 @@
-## Hi there 👋
+
+<h1>Welcome to my Github profile ⭐⭐⭐</h1>
+<p>My name is Jeremy and, of course, I'm doing my best to be a <b>Software Developer</b>.</p>
+
+<h2>Why I choose this job?</h2>
+<p>I think I have many reasons.</p>
+<ul>
+  <li>Good <b>job opportunities</b></li>
+  <li>It allows me to be <b>creative</b></li>
+  <li>Improves my <b>logic</b> and skill to <b>solve problems</b></li>
+</ul>
 
 <!--
 **JeremyLandaCuayla/JeremyLandaCuayla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
